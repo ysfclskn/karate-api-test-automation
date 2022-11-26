@@ -1,6 +1,6 @@
 Feature: Helper Features
 
-@name=createUserInformations
+@name=createDummyData
 Scenario: Create User Informations
 * def fakerObj =  new faker()
 * def userId = fakerObj.number().digit()
