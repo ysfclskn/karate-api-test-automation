@@ -1,0 +1,7 @@
+16:52:49.190 [main] INFO  c.intuit.karate.core.FeatureRuntime - classpath:helpers/helper.feature - call by tag at line 4: name=createUserInformations
+16:52:50.058 [main] INFO  com.intuit.karate - [print] {
+  "body": "rusty.beahan",
+  "userId": "7",
+  "id": 101
+}
+ 
